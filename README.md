@@ -1,5 +1,13 @@
-# Using visualization techniques to derive powerful data insights
+# Basic visualization techniques to derive powerful data insights
 
-The goal of the project is to highlight the importance of visualization to derive powerful insights and feature engineering using simple plots in R. The `ggplot` command in R is used for multiple variable analysis.
+The goal of the project is to highlight the importance of visualization to derive powerful insights, smarter missing values imputation and feature engineering using simple plots in R. The `ggplot` command in R is used for multiple variable analysis.
 
-The data set used here 
+## About the Data Set
+
+The goal of the data set is to predict the sales of supermarkets given information such as location, type and the kind of products sold at outlets of the supermarkets. Further, product information such as item visibility in the supermarket, the fat content and MRP are other important features given in the data set. The target variable (Item_Outlet_Sales) is plotted against various attributes to understand dependencies/prediction power of the attributes.
+
+
+
+
+
+
