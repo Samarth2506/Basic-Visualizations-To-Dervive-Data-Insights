@@ -8,6 +8,10 @@ The goal of the data set is to predict the sales of supermarkets given informati
 
 The target variable (Item_Outlet_Sales) is plotted against various attributes to understand dependencies/prediction power of the attributes.
 
+## Focus
+
+From the plots (using the attached code), important plots have been uploaded and the insight/learning from each plot is documented in a separate file.
+
 
 
 
