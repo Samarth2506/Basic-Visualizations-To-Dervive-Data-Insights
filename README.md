@@ -13,7 +13,7 @@ The target variable (Item_Outlet_Sales) is plotted against various attributes to
 From the plots (using the attached code), important plots have been uploaded and the insight/learning from each plot is documented in a separate file.
 
 
-
+![](Plot 1.png)
 
 
 
